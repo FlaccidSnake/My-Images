@@ -1,0 +1,11 @@
+{
+    "name": "My Images",
+    "package": "my_images",
+    "version": "1.0.0",
+    "author": "FlaccidSnake",
+    "description": "A searchable media browser and image renamer for the Anki card editor.",
+    "homepage": "https://github.com/FlaccidSnake/My_Images",
+    "min_point_version": 28,
+    "max_point_version": 2412,
+    "qt6": true
+}
