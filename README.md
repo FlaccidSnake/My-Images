@@ -1,6 +1,7 @@
+# My Images
 **My Images** is a searchable media browser and image management tool for Anki. It allows you to quickly find, preview, and insert images from your existing media collection directly into the card editor.
 
-**Use Case**
+## Use Case
 I often reuse good images I already have in the media folder. They're only searchable if I rename them, so best practices is to rename your screenshots to something other than the default. I use this excellent addon all the time: https://ankiweb.net/shared/info/1560623518. If you don't want to use this, I yoinked the rename code and included it in this addon, because it's useless without images with useful names. 
 
 I treat image names in anki like tags, I add every key word I can think of to the filename.
